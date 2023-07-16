@@ -1,0 +1,22 @@
+[
+    {
+        "img": "../assets/images/service-1.jpg",
+        "name": "Packaging",
+        "alt": "Service 1"
+    },
+    {
+        "img": "../assets/images/service-2.jpg",
+        "name": "Distribution",
+        "alt": "Service 2"
+    },
+    {
+        "img": "../assets/images/service-3.jpg",
+        "name": "Gardening",
+        "alt": "Service 3"
+    },
+    {
+        "img": "../assets/images/service-4.jpg",
+        "name": "Waste Collection",
+        "alt": "Service 4"
+    }
+]
